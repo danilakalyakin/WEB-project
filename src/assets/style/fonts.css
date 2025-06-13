@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Practice-font';
+    src: url('@/assets/style/PracticefontRegular.woff2') format('woff2'),
+         url('@/assets/style/PracticefontRegular.woff') format('woff'),
+         url('@/assets/style/PracticefontRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Practice-font Mono';
+    src: url('@/assets/style/PracticefontMono.woff2') format('woff2'),
+         url('@/assets/style/PracticefontMono.woff') format('woff'),
+         url('@/assets/style/PracticefontMono.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
